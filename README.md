@@ -1,27 +1,14 @@
 # Hey, I'm Atal 👋
- 
-I'm a final-year B.Tech student at IIT Roorkee (Chemical Engineering), but my real passion has always been building software. Over the years, I've leaned hard into that — working on GenAI-powered systems, full-stack web apps, and developer tools that actually solve problems.
- 
-I like sitting at the intersection of **algorithms, system design, and practical AI** — the kind of work where clean code meets real-world impact.
- 
+
+B.Tech from IIT Roorkee. Leaned deep into software alongside it — GenAI systems, full-stack apps, and developer tooling that solves real problems.
+
+My sweet spot is **backend systems and applied AI**. I shipped a production recommendation engine at Bidgely, built tools used by 600+ participants, and still grind CP problems just for fun.
+
+I care about architecture, code quality, and real-world impact. Open to **SDE, Backend, and Applied GenAI roles** where those things matter.
+
 ---
- 
-### What I'm into right now
-- Sharpening CS fundamentals: OS, OOP, system design
-- Competitive programming — always grinding
-- Exploring LLM-based workflows and personalization systems
-### Things I've built or worked on
-- 🤖 GenAI-powered recommendation engines
-- 🛠️ Developer productivity tooling
-- 🌐 Scalable full-stack React applications
-### What I'm looking for
-I'm open to **software engineering or AI-driven roles** — particularly backend, full-stack, or anything at the applied AI layer. I love working with people who care deeply about architecture and code quality.
- 
----
- 
-*When I'm not at a keyboard, I'm on a badminton court, a table tennis table, or plotting my next chess move ♟️🏸*
- 
----
+
+*Off the keyboard — badminton court, table tennis table, or a chessboard ♟️🏸*
 
 ## 🌐 Socials:
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat&logo=firefox&logoColor=white)](https://iLLuSiOnZZ.github.io) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/__atal_mishra__) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/atal-mishra-53037b186) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:atalmorning@gmail.com) 
